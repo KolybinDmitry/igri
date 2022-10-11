@@ -1,0 +1,15 @@
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\bin\Debug\net6.0\igrul`ki.exe
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\bin\Debug\net6.0\igrul`ki.deps.json
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\bin\Debug\net6.0\igrul`ki.runtimeconfig.json
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\bin\Debug\net6.0\igrul`ki.dll
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\bin\Debug\net6.0\igrul`ki.pdb
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.csproj.AssemblyReference.cache
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.AssemblyInfoInputs.cache
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.AssemblyInfo.cs
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.csproj.CoreCompileInputs.cache
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.dll
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\refint\igrul`ki.dll
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.pdb
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\igrul`ki.genruntimeconfig.cache
+C:\Users\m0q\source\repos\igrul`ki\igrul`ki\obj\Debug\net6.0\ref\igrul`ki.dll
