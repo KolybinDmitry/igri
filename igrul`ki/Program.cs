@@ -73,7 +73,7 @@
             {
                 for (int n = 0; n <= 9; n++)
                 {
-                    Console.Write($"{multTable[i, n]}    ");
+                   Console.Write("{0, 3}", multTable[i, n]);
                 }
                 Console.WriteLine();
             }
